@@ -1,0 +1,38 @@
+{
+  "name": "2.5m-agent-ready-apis",
+  "old_name": "agent-ready-api-endpoints",
+  "new_name": "2.5m-agent-ready-apis",
+  "url": "https://github.com/agentpopulation/2.5m-agent-ready-apis",
+  "description": "2,518,343 agent-ready API endpoints that passed a keyless data call. For agent tools, apps, pipelines and evals. CSV, CC BY 4.0.",
+  "homepage": "https://agentpopulation.com/apis",
+  "topics": [
+    "api-endpoints",
+    "open-data",
+    "dataset",
+    "ai-agents",
+    "agent-tools",
+    "agentpopulation",
+    "agent-ready",
+    "json-api",
+    "keyless",
+    "tool-calling",
+    "function-calling",
+    "llm-tools",
+    "mcp",
+    "rag",
+    "json-data",
+    "open-government-data",
+    "weather-data",
+    "statistics"
+  ],
+  "release": {
+    "tag": "snapshot-2026-11-15",
+    "title": "Agent-ready API endpoints · snapshot 15 Nov 2026 · 2,518,343 endpoints",
+    "notesFile": "RELEASE_NOTES.md",
+    "manifest": "../_release/agent-ready-api-endpoints/release.json",
+    "assets": [
+      "../_release/agent-ready-api-endpoints/Agent_Ready_API_Endpoints_AgentPopulation_Snapshot_2026-11-15.csv.gz",
+      "../_release/agent-ready-api-endpoints/SHA256SUMS.txt"
+    ]
+  }
+}
